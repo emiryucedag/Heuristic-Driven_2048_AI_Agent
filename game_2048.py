@@ -136,20 +136,25 @@ class Game2048(tk.Frame):
     # --- Yapay Zeka (AI) Bölümü ---
 
     def evaluate_board(self, matrix):
-        # METODOLOJİ: Sezgisel Puanlama 
+        # LİTERATÜRDEKİ STANDART AĞIRLIK MATRİSİ (Snake / Yılan Dizilimi)
+        # Sayıları sol üst köşeden başlayıp S harfi çizerek sağ alt köşeye doğru azalan 
+        # şekilde dizmeye zorlayan stratejik katsayı tablosu.
+        weight_matrix = np.array([
+            [65536, 32768, 16384,  8192],
+            [  512,  1024,  2048,  4096],
+            [  256,   128,    64,    32],
+            [    2,     4,     8,    16]
+        ])
+        
+        # Tahtadaki her sayıyı ağırlık matrisindeki katsayısıyla çarp ve topla
+        # Bu, döngü kullanmaktan çok daha hızlı bir NumPy vektörel işlemidir.
+        score = np.sum(matrix * weight_matrix)
+        
+        # Tahtanın kilitlenmemesi için boş hücrelere verilen küçük hayatta kalma primi
         empty_cells = len(np.where(matrix == 0)[0])
-        monotonicity = 0
-        for i in range(4):
-            for j in range(3):
-                if matrix[i][j] >= matrix[i][j+1]: monotonicity += 1
-                if matrix[j][i] >= matrix[j+1][i]: monotonicity += 1
+        score += empty_cells * 1000 
         
-        max_tile = np.max(matrix)
-        is_max_in_corner = (matrix[0,0] == max_tile or matrix[0,3] == max_tile or 
-                           matrix[3,0] == max_tile or matrix[3,3] == max_tile)
-        corner_bonus = 200 if is_max_in_corner else 0
-        
-        return (empty_cells * 20) + (monotonicity * 10) + corner_bonus + max_tile
+        return score
 
     def combine_logic_only(self, matrix):
         # Simülasyon için skoru etkilemeyen birleştirme mantığı
