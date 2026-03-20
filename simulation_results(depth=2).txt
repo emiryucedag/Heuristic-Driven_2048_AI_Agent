@@ -1,0 +1,110 @@
+--- STARTING AUTOMATED SIMULATION FOR 100 GAMES ---
+
+Game 1 Over | Score: 68572 | Max Tile: 4096
+Game 2 Over | Score: 32412 | Max Tile: 2048
+Game 3 Over | Score: 32568 | Max Tile: 2048
+Game 4 Over | Score: 36304 | Max Tile: 2048
+Game 5 Over | Score: 17176 | Max Tile: 1024
+Game 6 Over | Score: 3140 | Max Tile: 256
+Game 7 Over | Score: 27588 | Max Tile: 2048
+Game 8 Over | Score: 12768 | Max Tile: 1024
+Game 9 Over | Score: 54180 | Max Tile: 4096
+Game 10 Over | Score: 36800 | Max Tile: 2048
+Game 11 Over | Score: 22892 | Max Tile: 2048
+Game 12 Over | Score: 32264 | Max Tile: 2048
+Game 13 Over | Score: 27648 | Max Tile: 2048
+Game 14 Over | Score: 16668 | Max Tile: 1024
+Game 15 Over | Score: 26248 | Max Tile: 2048
+Game 16 Over | Score: 56752 | Max Tile: 4096
+Game 17 Over | Score: 38504 | Max Tile: 2048
+Game 18 Over | Score: 14432 | Max Tile: 1024
+Game 19 Over | Score: 67964 | Max Tile: 4096
+Game 20 Over | Score: 33176 | Max Tile: 2048
+Game 21 Over | Score: 5148 | Max Tile: 512
+Game 22 Over | Score: 16100 | Max Tile: 1024
+Game 23 Over | Score: 32528 | Max Tile: 2048
+Game 24 Over | Score: 52208 | Max Tile: 4096
+Game 25 Over | Score: 49656 | Max Tile: 4096
+Game 26 Over | Score: 23648 | Max Tile: 2048
+Game 27 Over | Score: 13856 | Max Tile: 1024
+Game 28 Over | Score: 27480 | Max Tile: 2048
+Game 29 Over | Score: 16568 | Max Tile: 1024
+Game 30 Over | Score: 27708 | Max Tile: 2048
+Game 31 Over | Score: 15756 | Max Tile: 1024
+Game 32 Over | Score: 27588 | Max Tile: 2048
+Game 33 Over | Score: 8952 | Max Tile: 512
+Game 34 Over | Score: 16496 | Max Tile: 1024
+Game 35 Over | Score: 36516 | Max Tile: 2048
+Game 36 Over | Score: 22252 | Max Tile: 2048
+Game 37 Over | Score: 16292 | Max Tile: 1024
+Game 38 Over | Score: 17044 | Max Tile: 1024
+Game 39 Over | Score: 2764 | Max Tile: 256
+Game 40 Over | Score: 52080 | Max Tile: 4096
+Game 41 Over | Score: 35156 | Max Tile: 2048
+Game 42 Over | Score: 37392 | Max Tile: 2048
+Game 43 Over | Score: 60692 | Max Tile: 4096
+Game 44 Over | Score: 2392 | Max Tile: 256
+Game 45 Over | Score: 36992 | Max Tile: 2048
+Game 46 Over | Score: 35296 | Max Tile: 2048
+Game 47 Over | Score: 16704 | Max Tile: 1024
+Game 48 Over | Score: 35596 | Max Tile: 2048
+Game 49 Over | Score: 23096 | Max Tile: 2048
+Game 50 Over | Score: 7416 | Max Tile: 512
+Game 51 Over | Score: 27532 | Max Tile: 2048
+Game 52 Over | Score: 36496 | Max Tile: 2048
+Game 53 Over | Score: 32916 | Max Tile: 2048
+Game 54 Over | Score: 6616 | Max Tile: 512
+Game 55 Over | Score: 36128 | Max Tile: 2048
+Game 56 Over | Score: 11024 | Max Tile: 1024
+Game 57 Over | Score: 36172 | Max Tile: 2048
+Game 58 Over | Score: 12564 | Max Tile: 1024
+Game 59 Over | Score: 16504 | Max Tile: 1024
+Game 60 Over | Score: 57408 | Max Tile: 4096
+Game 61 Over | Score: 15764 | Max Tile: 1024
+Game 62 Over | Score: 7044 | Max Tile: 512
+Game 63 Over | Score: 12380 | Max Tile: 1024
+Game 64 Over | Score: 12692 | Max Tile: 1024
+Game 65 Over | Score: 37556 | Max Tile: 2048
+Game 66 Over | Score: 33380 | Max Tile: 2048
+Game 67 Over | Score: 33100 | Max Tile: 2048
+Game 68 Over | Score: 35176 | Max Tile: 2048
+Game 69 Over | Score: 30700 | Max Tile: 2048
+Game 70 Over | Score: 60788 | Max Tile: 4096
+Game 71 Over | Score: 27656 | Max Tile: 2048
+Game 72 Over | Score: 31596 | Max Tile: 2048
+Game 73 Over | Score: 35896 | Max Tile: 2048
+Game 74 Over | Score: 16472 | Max Tile: 1024
+Game 75 Over | Score: 16888 | Max Tile: 1024
+Game 76 Over | Score: 36456 | Max Tile: 2048
+Game 77 Over | Score: 16216 | Max Tile: 1024
+Game 78 Over | Score: 5444 | Max Tile: 512
+Game 79 Over | Score: 37564 | Max Tile: 2048
+Game 80 Over | Score: 35388 | Max Tile: 2048
+Game 81 Over | Score: 32748 | Max Tile: 2048
+Game 82 Over | Score: 34132 | Max Tile: 2048
+Game 83 Over | Score: 14640 | Max Tile: 1024
+Game 84 Over | Score: 25344 | Max Tile: 2048
+Game 85 Over | Score: 36220 | Max Tile: 2048
+Game 86 Over | Score: 10748 | Max Tile: 1024
+Game 87 Over | Score: 27972 | Max Tile: 2048
+Game 88 Over | Score: 34252 | Max Tile: 2048
+Game 89 Over | Score: 37872 | Max Tile: 2048
+Game 90 Over | Score: 36024 | Max Tile: 2048
+Game 91 Over | Score: 62200 | Max Tile: 4096
+Game 92 Over | Score: 37128 | Max Tile: 2048
+Game 93 Over | Score: 36184 | Max Tile: 2048
+Game 94 Over | Score: 15800 | Max Tile: 1024
+Game 95 Over | Score: 16036 | Max Tile: 1024
+Game 96 Over | Score: 17108 | Max Tile: 1024
+Game 97 Over | Score: 36300 | Max Tile: 2048
+Game 98 Over | Score: 16524 | Max Tile: 1024
+Game 99 Over | Score: 28080 | Max Tile: 2048
+Game 100 Over | Score: 36340 | Max Tile: 2048
+
+=== SIMULATION STATISTICS ===
+Total Games Played: 100
+Average Score: 28325
+4096 Win Rate: 11.0%
+2048 Win Rate: 53.0%
+1024 Win Rate: 27.0%
+=================================
