@@ -1,4 +1,4 @@
-# 🧩 Heuristic-Driven 2048 AI Agent
+#  Heuristic-Driven 2048 AI Agent
 
 An autonomous Artificial Intelligence agent designed to master the stochastic puzzle game **2048**. The game is formally modeled as a **Markov Decision Process (MDP)**, and the agent navigates its non-deterministic environment using **Expectimax search**, a **monotonic Snake heuristic**, and **Transposition Table** caching.
 
@@ -8,7 +8,7 @@ An autonomous Artificial Intelligence agent designed to master the stochastic pu
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 | Feature | Description |
 |---|---|
@@ -56,7 +56,7 @@ The Snake Matrix delivers a **4.2x score multiplier**, proving that geometric ti
 
 ---
 
-## ⚙️ Installation and Usage
+## Installation and Usage
 
 **Requirements:** Python 3.x, NumPy, Tkinter (standard library)
 
@@ -85,7 +85,7 @@ python game_2048.py
 ---
 
 
-## 🔬 Algorithm Overview
+## Algorithm Overview
 
 The Expectimax search alternates between **Max Nodes** (agent maximizes score) and **Chance Nodes** (environment spawns a random tile). The expected utility at a chance node is:
 
@@ -97,7 +97,7 @@ $$W = \begin{bmatrix} 2^{16} & 2^{15} & 2^{14} & 2^{13} \\ 2^{9} & 2^{10} & 2^{1
 
 ---
 
-## 📚 References
+##  References
 
 1. G. Cirulli, "2048," GitHub, 2014. https://github.com/gabrielecirulli/2048  
 2. R. Xiao, "2048-AI," GitHub, 2014. https://github.com/nneonneo/2048-ai  
