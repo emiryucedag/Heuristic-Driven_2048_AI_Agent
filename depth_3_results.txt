@@ -1,0 +1,22 @@
+--- DEPTH 3 TEST RESULTS ---
+
+Game 1 Over | Score: 36564 | Max Tile: 2048 | Moves: 1907
+Game 2 Over | Score: 16528 | Max Tile: 1024 | Moves: 995
+Game 3 Over | Score: 6724 | Max Tile: 512 | Moves: 461
+Game 4 Over | Score: 37544 | Max Tile: 2048 | Moves: 1956
+Game 5 Over | Score: 32148 | Max Tile: 2048 | Moves: 1637
+Game 6 Over | Score: 16576 | Max Tile: 1024 | Moves: 990
+Game 7 Over | Score: 16740 | Max Tile: 1024 | Moves: 997
+Game 8 Over | Score: 16912 | Max Tile: 1024 | Moves: 1011
+Game 9 Over | Score: 27680 | Max Tile: 2048 | Moves: 1462
+Game 10 Over | Score: 36248 | Max Tile: 2048 | Moves: 1877
+
+=== DEPTH 3 STATISTICS ===
+Total Games Played: 10
+Average Score: 24366
+Average Time Per Move: 6.95 ms
+4096 Win Rate: 0.0%
+2048 Win Rate: 50.0%
+1024 Win Rate: 40.0%
+512 Win Rate: 10.0%
+=================================

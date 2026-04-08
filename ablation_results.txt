@@ -1,0 +1,30 @@
+--- HEURISTIC ABLATION STUDY (DEPTH 2, 5 GAMES PER MODE) ---
+
+--- TESTING HEURISTIC MODE: EMPTY_ONLY ---
+Mode: EMPTY_ONLY | Game 1 | Score: 12140 | Max Tile: 1024
+Mode: EMPTY_ONLY | Game 2 | Score: 19472 | Max Tile: 512
+Mode: EMPTY_ONLY | Game 3 | Score: 26748 | Max Tile: 512
+Mode: EMPTY_ONLY | Game 4 | Score: 39544 | Max Tile: 1024
+Mode: EMPTY_ONLY | Game 5 | Score: 46916 | Max Tile: 512
+
+=== SUMMARY FOR EMPTY_ONLY ===
+Average Score: 28964
+2048 Win Rate: 0.0%
+1024 Reach Rate: 40.0%
+512 Reach Rate: 60.0%
+=================================
+
+--- TESTING HEURISTIC MODE: SNAKE ---
+Mode: SNAKE | Game 1 | Score: 106420 | Max Tile: 4096
+Mode: SNAKE | Game 2 | Score: 144620 | Max Tile: 2048
+Mode: SNAKE | Game 3 | Score: 180216 | Max Tile: 2048
+Mode: SNAKE | Game 4 | Score: 187392 | Max Tile: 512
+Mode: SNAKE | Game 5 | Score: 207392 | Max Tile: 1024
+
+=== SUMMARY FOR SNAKE ===
+Average Score: 165208
+2048 Win Rate: 60.0%
+1024 Reach Rate: 20.0%
+512 Reach Rate: 20.0%
+=================================
+

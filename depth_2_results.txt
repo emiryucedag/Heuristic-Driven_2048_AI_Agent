@@ -1,0 +1,21 @@
+--- DEPTH 2 TEST RESULTS ---
+
+Game 1 Over | Score: 59364 | Max Tile: 4096 | Moves: 2725
+Game 2 Over | Score: 34864 | Max Tile: 2048 | Moves: 1798
+Game 3 Over | Score: 35700 | Max Tile: 2048 | Moves: 1836
+Game 4 Over | Score: 35340 | Max Tile: 2048 | Moves: 1822
+Game 5 Over | Score: 28320 | Max Tile: 2048 | Moves: 1506
+Game 6 Over | Score: 38532 | Max Tile: 2048 | Moves: 2046
+Game 7 Over | Score: 15636 | Max Tile: 1024 | Moves: 928
+Game 8 Over | Score: 27704 | Max Tile: 2048 | Moves: 1464
+Game 9 Over | Score: 22508 | Max Tile: 2048 | Moves: 1127
+Game 10 Over | Score: 35208 | Max Tile: 2048 | Moves: 1813
+
+=== DEPTH 2 STATISTICS ===
+Total Games Played: 10
+Average Score: 33317
+Average Time Per Move: 2.88 ms
+4096 Win Rate: 10.0%
+2048 Win Rate: 80.0%
+1024 Win Rate: 10.0%
+=================================
